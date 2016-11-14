@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xmi:id="_wi3RAAZ9Eeajd7LjjElhIA" type="Class" name="classdiagram2.dnx">
+  <eAnnotations xmi:id="_wi3RAgZ9Eeajd7LjjElhIA" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_wi3RAwZ9Eeajd7LjjElhIA" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+  </eAnnotations>
+  <children xmi:id="_BrYDUAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BrYqYAc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_BrYqYQc9Eeaw3KvbsM1xew" width="530" height="530"/>
+    </children>
+    <children xmi:id="_BrYqYgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_BrYqYwc9Eeaw3KvbsM1xew" type="Kind"/>
+    <children xmi:id="_BrYqZAc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_BrZRcAc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_BrZRcQc9Eeaw3KvbsM1xew" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrZRcgc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrZRcwc9Eeaw3KvbsM1xew" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrZRdAc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrZRdQc9Eeaw3KvbsM1xew" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrZRdgc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_BrYDUQc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label" useClassifierShape="true"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=Model%5Bjcu%5Ename=Model.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BrYDUgc9Eeaw3KvbsM1xew" x="42478" y="42161"/>
+  </children>
+  <children xmi:id="_BrZRdwc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BrZ4gQc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_BrZ4ggc9Eeaw3KvbsM1xew" width="530" height="530"/>
+    </children>
+    <children xmi:id="_BrZ4gwc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_BrZ4hAc9Eeaw3KvbsM1xew" type="Kind"/>
+    <children xmi:id="_BrZ4hQc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_BrafkAc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_BrafkQc9Eeaw3KvbsM1xew" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Brafkgc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Brafkwc9Eeaw3KvbsM1xew" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BraflAc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BraflQc9Eeaw3KvbsM1xew" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Braflgc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_BrZReAc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label" useClassifierShape="true"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=Controller%5Bjcu%5Ename=Controller.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BrZ4gAc9Eeaw3KvbsM1xew" x="39625" y="34870"/>
+  </children>
+  <children xmi:id="_BrbGoAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BrbGowc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_BrbGpAc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_BrbGpQc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_BrbGpgc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_BrbtsAc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_BrbtsQc9Eeaw3KvbsM1xew" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Brbtsgc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Brc70Ac9Eeaw3KvbsM1xew" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Brc70Qc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Brc70gc9Eeaw3KvbsM1xew" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Brc70wc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_BrbGoQc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=BoxHandler%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BrbGogc9Eeaw3KvbsM1xew" x="33919" y="23775"/>
+  </children>
+  <children xmi:id="_Brdi4Ac9Eeaw3KvbsM1xew">
+    <children xmi:id="_BreJ8Ac9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_BreJ8Qc9Eeaw3KvbsM1xew" width="530" height="530"/>
+    </children>
+    <children xmi:id="_BreJ8gc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_BrexAAc9Eeaw3KvbsM1xew" type="Kind"/>
+    <children xmi:id="_BrexAQc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_BrexAgc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_BrexAwc9Eeaw3KvbsM1xew" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrexBAc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrfYEAc9Eeaw3KvbsM1xew" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrfYEQc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrfYEgc9Eeaw3KvbsM1xew" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrfYEwc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_Brdi4Qc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label" useClassifierShape="true"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=View%5Bjcu%5Ename=View.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Brdi4gc9Eeaw3KvbsM1xew" x="40259" y="23775"/>
+  </children>
+  <children xmi:id="_Brf_IAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_Brf_Iwc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_Brf_JAc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_BrgmMAc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_BrgmMQc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_BrgmMgc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_BrgmMwc9Eeaw3KvbsM1xew" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrgmNAc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Brh0UAc9Eeaw3KvbsM1xew" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Brh0UQc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Brh0Ugc9Eeaw3KvbsM1xew" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Brh0Uwc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_Brf_IQc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Account%5Bjcu%5Ename=Account.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Brf_Igc9Eeaw3KvbsM1xew" x="32017" y="56426"/>
+  </children>
+  <children xmi:id="_BribYAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BribYwc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_BribZAc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_BribZQc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_BribZgc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_BrjCcAc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_BrjCcQc9Eeaw3KvbsM1xew" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrjCcgc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrjCcwc9Eeaw3KvbsM1xew" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrjCdAc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrjCdQc9Eeaw3KvbsM1xew" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrjCdgc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_BribYQc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AccountController%5Bjcu%5Ename=AccountController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BribYgc9Eeaw3KvbsM1xew" x="25677" y="56426"/>
+  </children>
+  <children xmi:id="_BrjpgAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_Brjpgwc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_BrjphAc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_BrjphQc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_BrkQkAc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_BrkQkQc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_BrkQkgc9Eeaw3KvbsM1xew" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrkQkwc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrkQlAc9Eeaw3KvbsM1xew" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrkQlQc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrkQlgc9Eeaw3KvbsM1xew" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrkQlwc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_BrjpgQc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AbstractModel%5Bjcu%5Ename=AbstractModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Brjpggc9Eeaw3KvbsM1xew" x="38357" y="56426"/>
+  </children>
+  <children xmi:id="_BrkQmAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_Brk3oAc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_Brk3oQc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_BrlesAc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_BrlesQc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_Brlesgc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_Brleswc9Eeaw3KvbsM1xew" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrletAc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrletQc9Eeaw3KvbsM1xew" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Brletgc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Brletwc9Eeaw3KvbsM1xew" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrleuAc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_BrkQmQc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AccountModel%5Bjcu%5Ename=AccountModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BrkQmgc9Eeaw3KvbsM1xew" x="33919" y="42161"/>
+  </children>
+  <children xmi:id="_BrmFwAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BrmFwwc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_BrmFxAc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_BrmFxQc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_BrmFxgc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_Brms0Ac9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_Brms0Qc9Eeaw3KvbsM1xew" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Brms0gc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Brn68Ac9Eeaw3KvbsM1xew" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Brn68Qc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Brn68gc9Eeaw3KvbsM1xew" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Brn68wc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_BrmFwQc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BrmFwgc9Eeaw3KvbsM1xew" x="24726" y="34870"/>
+  </children>
+  <children xmi:id="_BroiAAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BroiAwc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_BroiBAc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_BroiBQc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_BroiBgc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_BrpJEAc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_BrpJEQc9Eeaw3KvbsM1xew" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrpJEgc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrpJEwc9Eeaw3KvbsM1xew" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrpJFAc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrpJFQc9Eeaw3KvbsM1xew" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrpJFgc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_BroiAQc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BroiAgc9Eeaw3KvbsM1xew" x="36772" y="18386"/>
+  </children>
+  <children xmi:id="_BrpJFwc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BrpwIAc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_BrpwIQc9Eeaw3KvbsM1xew" width="530" height="530"/>
+    </children>
+    <children xmi:id="_BrpwIgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_BrpwIwc9Eeaw3KvbsM1xew" type="Kind"/>
+    <children xmi:id="_BrpwJAc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_BrpwJQc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_BrqXMAc9Eeaw3KvbsM1xew" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrqXMQc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrqXMgc9Eeaw3KvbsM1xew" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrqXMwc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrqXNAc9Eeaw3KvbsM1xew" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrqXNQc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_BrpJGAc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label" useClassifierShape="true"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=ModelListener%5Bjcu%5Ename=ModelListener.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BrpJGQc9Eeaw3KvbsM1xew" x="39625" y="64351"/>
+  </children>
+  <children xmi:id="_BrqXNgc9Eeaw3KvbsM1xew">
+    <children xmi:id="_Brq-QAc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_Brq-QQc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_Brq-Qgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_Brq-Qwc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_Brq-RAc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_Brq-RQc9Eeaw3KvbsM1xew" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Brq-Rgc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrrlUAc9Eeaw3KvbsM1xew" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrrlUQc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrrlUgc9Eeaw3KvbsM1xew" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrrlUwc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_BrqXNwc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BrqXOAc9Eeaw3KvbsM1xew" x="43112" y="28530"/>
+  </children>
+  <children xmi:id="_BrrlVAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BrsMYAc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_BrsMYQc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_BrsMYgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_BrsMYwc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_BrsMZAc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_BrsMZQc9Eeaw3KvbsM1xew" type="PackageContents">
+      <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_BrsMZgc9Eeaw3KvbsM1xew" canonical="false" collapsed="true"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_BrrlVQc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BrrlVgc9Eeaw3KvbsM1xew" x="35187" y="14899"/>
+  </children>
+  <children xmi:id="_BrsMZwc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BrszcAc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_BrszcQc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_Brszcgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_Brszcwc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_BrszdAc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_BrszdQc9Eeaw3KvbsM1xew" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Brszdgc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_BrtagAc9Eeaw3KvbsM1xew" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrtagQc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Brtaggc9Eeaw3KvbsM1xew" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Brtagwc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_BrsMaAc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AbstractController%5Bjcu%5Ename=AbstractController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BrsMaQc9Eeaw3KvbsM1xew" x="28213" y="18386"/>
+  </children>
+  <children xmi:id="_BrtahAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BruBkAc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_BruBkQc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_BruBkgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_BruBkwc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_BruBlAc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_BruBlQc9Eeaw3KvbsM1xew" type="PackageContents">
+      <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_BruBlgc9Eeaw3KvbsM1xew" canonical="false" collapsed="true"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_BrtahQc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Brtahgc9Eeaw3KvbsM1xew" x="35187" y="8242"/>
+  </children>
+  <children xmi:id="_BruBlwc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BruooAc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_BruooQc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_Bruoogc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_Bruoowc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_BrvPsAc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_BrvPsQc9Eeaw3KvbsM1xew" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrvPsgc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Brwd0Ac9Eeaw3KvbsM1xew" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Brwd0Qc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Brwd0gc9Eeaw3KvbsM1xew" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Brwd0wc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_BruBmAc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Handler%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BruBmQc9Eeaw3KvbsM1xew" x="46599" y="23775"/>
+  </children>
+  <children xmi:id="_Brwd1Ac9Eeaw3KvbsM1xew">
+    <children xmi:id="_BrxE4Ac9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_BrxE4Qc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_BrxE4gc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_BrxE4wc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_BrxE5Ac9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_BrxE5Qc9Eeaw3KvbsM1xew" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_BrxE5gc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Bry6EAc9Eeaw3KvbsM1xew" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Bry6EQc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Bry6Egc9Eeaw3KvbsM1xew" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Bry6Ewc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_Brwd1Qc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=DismissHandler%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Brwd1gc9Eeaw3KvbsM1xew" x="19337" y="23775"/>
+  </children>
+  <children xmi:id="_Bry6FAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BrzhIAc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_BrzhIQc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_BrzhIgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_BrzhIwc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_BrzhJAc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_Br0IMAc9Eeaw3KvbsM1xew" type="PackageContents">
+      <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_Br0IMQc9Eeaw3KvbsM1xew" canonical="false" collapsed="true"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_Bry6FQc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bry6Fgc9Eeaw3KvbsM1xew" x="37723" y="11729"/>
+  </children>
+  <children xmi:id="_Br0IMgc9Eeaw3KvbsM1xew">
+    <children xmi:id="_Br0INQc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_Br0INgc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_Br0INwc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_Br0vQAc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_Br0vQQc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_Br0vQgc9Eeaw3KvbsM1xew" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Br0vQwc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Br0vRAc9Eeaw3KvbsM1xew" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Br0vRQc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Br0vRgc9Eeaw3KvbsM1xew" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Br0vRwc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_Br0IMwc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Br0INAc9Eeaw3KvbsM1xew" x="36455" y="67521"/>
+  </children>
+  <children xmi:id="_Br1WUAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_Br1WUwc9Eeaw3KvbsM1xew" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_Br1WVAc9Eeaw3KvbsM1xew" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_Br19YAc9Eeaw3KvbsM1xew" type="Stereotype"/>
+    <children xmi:id="_Br19YQc9Eeaw3KvbsM1xew" type="Name"/>
+    <children xmi:id="_Br19Ygc9Eeaw3KvbsM1xew" type="Parent"/>
+    <children xmi:id="_Br19Ywc9Eeaw3KvbsM1xew" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Br19ZAc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Br3ykAc9Eeaw3KvbsM1xew" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Br3ykQc9Eeaw3KvbsM1xew"/>
+    </children>
+    <children xmi:id="_Br3ykgc9Eeaw3KvbsM1xew" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Br3ykwc9Eeaw3KvbsM1xew"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_Br1WUQc9Eeaw3KvbsM1xew" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Handler%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Br1WUgc9Eeaw3KvbsM1xew" x="25043" y="23775"/>
+  </children>
+  <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_wi3RAQZ9Eeajd7LjjElhIA"/>
+  <element xsi:nil="true"/>
+  <edges xmi:id="_BzAVUAc9Eeaw3KvbsM1xew" source="_BrYDUAc9Eeaw3KvbsM1xew" target="_Br0IMgc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzAVUwc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzAVVQc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzA8YAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzAVVgc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzAVVAc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzAVUQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Model%5Bjcu%5Ename=Model.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzAVUgc9Eeaw3KvbsM1xew" points="[0, 0, 5022, -23503]$[0, 21916, 5022, -1587]$[-5021, 23503, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4_BgQc9Eeaw3KvbsM1xew" id="(0.49956,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4_Bggc9Eeaw3KvbsM1xew" id="(0.7501478,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzA8YQc9Eeaw3KvbsM1xew" type="OwnedElement" source="_BrrlVAc9Eeaw3KvbsM1xew" target="_BrZRdwc9Eeaw3KvbsM1xew">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzA8Ygc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzA8Ywc9Eeaw3KvbsM1xew" points="[0, 0, -4712, -18155]$[5331, 1586, 619, -16569]$[8199, 7082, 3487, -11073]$[8199, 10122, 3487, -8033]$[4713, 11709, 1, -6446]$[4713, 18155, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5Cr4gc9Eeaw3KvbsM1xew" id="(0.7499064,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5Cr4wc9Eeaw3KvbsM1xew" id="(0.7754252,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzA8ZAc9Eeaw3KvbsM1xew" source="_BrZRdwc9Eeaw3KvbsM1xew" target="_Brdi4Ac9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzBjcAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzBjcgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzBjdAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzBjcwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzBjcQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzA8ZQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Controller%5Bjcu%5Ename=Controller.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=View%5Bjcu%5Ename=View.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzA8Zgc9Eeaw3KvbsM1xew" points="[1, 0, 0, 8032]$[1, -8032, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4_okwc9Eeaw3KvbsM1xew" id="(0.50052065,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4_olAc9Eeaw3KvbsM1xew" id="(0.27562284,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzBjdQc9Eeaw3KvbsM1xew" source="_BrZRdwc9Eeaw3KvbsM1xew" target="_BrYDUAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzCKgAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzCKggc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzCKhAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzCKgwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzCKgQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzBjdgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Controller%5Bjcu%5Ename=Controller.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Model%5Bjcu%5Ename=Model.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzBjdwc9Eeaw3KvbsM1xew" points="[0, 0, -3442, -4355]$[1838, 2768, -1604, -1587]$[3443, 4355, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B47-Mgc9Eeaw3KvbsM1xew" id="(0.49982646,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B47-Mwc9Eeaw3KvbsM1xew" id="(0.6221766,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzCKhQc9Eeaw3KvbsM1xew" type="OwnedElement" source="_BroiAAc9Eeaw3KvbsM1xew" target="_BrbGoAc9Eeaw3KvbsM1xew">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzCKhgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzCKhwc9Eeaw3KvbsM1xew" points="[1, 0, 2600, -2536]$[-2599, 2536, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4-acAc9Eeaw3KvbsM1xew" id="(0.36351705,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4-acQc9Eeaw3KvbsM1xew" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzCxkAc9Eeaw3KvbsM1xew" source="_BrbGoAc9Eeaw3KvbsM1xew" target="_BrkQmAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzCxkwc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzCxlQc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzCxlwc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzCxlgc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzCxlAc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzCxkQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=BoxHandler%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AccountModel%5Bjcu%5Ename=AccountModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzCxkgc9Eeaw3KvbsM1xew" points="[1, 0, 0, -16645]$[1, 16645, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4_Bgwc9Eeaw3KvbsM1xew" id="(0.5004914,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4_BhAc9Eeaw3KvbsM1xew" id="(0.3583744,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzDYoAc9Eeaw3KvbsM1xew" source="_BrbGoAc9Eeaw3KvbsM1xew" target="_BroiAAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzDYowc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzDYpQc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzDYpwc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzDYpgc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzDYpAc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzDYoQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=BoxHandler%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzDYogc9Eeaw3KvbsM1xew" points="[0, 0, -2413, 2536]$[2414, -2536, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B48lQgc9Eeaw3KvbsM1xew" id="(0.74987715,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B48lQwc9Eeaw3KvbsM1xew" id="(0.54527557,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzD_sAc9Eeaw3KvbsM1xew" type="OwnedElement" source="_Bry6FAc9Eeaw3KvbsM1xew" target="_Brdi4Ac9Eeaw3KvbsM1xew">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzD_sQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzD_sgc9Eeaw3KvbsM1xew" points="[1, 0, -2859, -10412]$[6691, 4916, 3831, -5496]$[6691, 8825, 3831, -1587]$[2860, 10412, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5FIJAc9Eeaw3KvbsM1xew" id="(0.66641706,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5FIJQc9Eeaw3KvbsM1xew" id="(0.6666667,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzEmwAc9Eeaw3KvbsM1xew" source="_Brdi4Ac9Eeaw3KvbsM1xew" target="_BrYDUAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzEmwwc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzEmxQc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzFN0Ac9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzEmxgc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzEmxAc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzEmwQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=View%5Bjcu%5Ename=View.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Model%5Bjcu%5Ename=Model.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzEmwgc9Eeaw3KvbsM1xew" points="[0, 0, -3317, -15428]$[-1004, 1586, -4321, -13842]$[-2048, 8032, -5365, -7396]$[-2048, 13841, -5365, -1587]$[3317, 15428, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4_BhQc9Eeaw3KvbsM1xew" id="(0.09176916,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4_okAc9Eeaw3KvbsM1xew" id="(0.4147844,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzFN0Qc9Eeaw3KvbsM1xew" source="_Brdi4Ac9Eeaw3KvbsM1xew" target="_BrZRdwc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzF04Ac9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzF04gc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzF05Ac9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzF04wc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzF04Qc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzFN0gc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=View%5Bjcu%5Ename=View.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Controller%5Bjcu%5Ename=Controller.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzFN0wc9Eeaw3KvbsM1xew" points="[0, 0, 503, -8032]$[-502, 1586, 1, -6446]$[-502, 8032, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4_okQc9Eeaw3KvbsM1xew" id="(0.18353832,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4_okgc9Eeaw3KvbsM1xew" id="(0.2249219,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzF05Qc9Eeaw3KvbsM1xew" type="OwnedElement" source="_BrrlVAc9Eeaw3KvbsM1xew" target="_BribYAc9Eeaw3KvbsM1xew">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzF05gc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzF05wc9Eeaw3KvbsM1xew" points="[1, 0, 9855, -39597]$[-18531, 1586, -8677, -38011]$[-20117, 7082, -10263, -32515]$[-20117, 38010, -10263, -1587]$[-9853, 39597, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5Cr5Ac9Eeaw3KvbsM1xew" id="(0.2497192,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5Cr5Qc9Eeaw3KvbsM1xew" id="(0.05424322,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzGb8Ac9Eeaw3KvbsM1xew" source="_BribYAc9Eeaw3KvbsM1xew" target="_BrsMZwc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzHDAAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzHDAgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzHDBAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzHDAwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzHDAQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzGb8Qc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AccountController%5Bjcu%5Ename=AccountController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AbstractController%5Bjcu%5Ename=AbstractController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzGb8gc9Eeaw3KvbsM1xew" points="[0, 0, -3074, 34101]$[-9176, -1587, -12250, 32514]$[-9176, -32515, -12250, 1586]$[3074, -34101, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5D6AAc9Eeaw3KvbsM1xew" id="(0.1631671,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5D6AQc9Eeaw3KvbsM1xew" id="(0.33333334,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzHDBQc9Eeaw3KvbsM1xew" source="_BribYAc9Eeaw3KvbsM1xew" target="_BrkQmAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzHqEAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzHqEgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzHqFAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzHqEwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzHqEQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzHDBgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AccountController%5Bjcu%5Ename=AccountController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AccountModel%5Bjcu%5Ename=AccountModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzHDBwc9Eeaw3KvbsM1xew" points="[1, 0, -5989, 1586]$[5990, -1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4-adgc9Eeaw3KvbsM1xew" id="(0.78543305,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4_BgAc9Eeaw3KvbsM1xew" id="(0.2716397,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzHqFQc9Eeaw3KvbsM1xew" source="_BribYAc9Eeaw3KvbsM1xew" target="_BrsMZwc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzIRIAc9Eeaw3KvbsM1xew" type="NameLabel">
+      <children xmi:id="_BzIRIgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzIRIwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzIRIQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzHqFgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=AccountController%5Bjcu%5Ename=AccountController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AbstractController%5Bjcu%5Ename=AbstractController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzHqFwc9Eeaw3KvbsM1xew" points="[0, 0, -2675, 34101]$[-9720, -1587, -12395, 32514]$[-9720, -32515, -12395, 1586]$[2675, -34101, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5DS8Ac9Eeaw3KvbsM1xew" id="(0.10870516,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5DS8Qc9Eeaw3KvbsM1xew" id="(0.16653797,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzIRJAc9Eeaw3KvbsM1xew" source="_BribYAc9Eeaw3KvbsM1xew" target="_BroiAAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzI4MAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzI4Mgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzI4NAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzI4Mwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzI4MQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzIRJQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AccountController%5Bjcu%5Ename=AccountController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzIRJgc9Eeaw3KvbsM1xew" points="[1, 0, -8901, 35051]$[3115, -1587, -5787, 33464]$[3117, -32515, -5785, 2536]$[8903, -35051, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5BdxQc9Eeaw3KvbsM1xew" id="(0.64260715,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5CE0Ac9Eeaw3KvbsM1xew" id="(0.18175852,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzI4NQc9Eeaw3KvbsM1xew" source="_BribYAc9Eeaw3KvbsM1xew" target="_BrqXNgc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzJfQAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzJfQgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzJfRAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzJfQwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzJfQQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzI4Ngc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AccountController%5Bjcu%5Ename=AccountController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzI4Nwc9Eeaw3KvbsM1xew" points="[0, 0, -14505, 23028]$[10990, -1587, -3515, 21441]$[11572, -14046, -2933, 8982]$[14068, -15633, -437, 7395]$[14235, -21442, -270, 1586]$[14505, -23028, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5Cr4Ac9Eeaw3KvbsM1xew" id="(0.8569554,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5Cr4Qc9Eeaw3KvbsM1xew" id="(0.24988464,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzJfRQc9Eeaw3KvbsM1xew" source="_BribYAc9Eeaw3KvbsM1xew" target="_BrmFwAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzJfSAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzKGUAc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzKGUgc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzKGUQc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzJfSQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzJfRgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AccountController%5Bjcu%5Ename=AccountController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzJfRwc9Eeaw3KvbsM1xew" points="[0, 0, 0, 15632]$[0, -15632, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5A2sgc9Eeaw3KvbsM1xew" id="(0.49978128,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5A2swc9Eeaw3KvbsM1xew" id="(0.65354025,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzKGUwc9Eeaw3KvbsM1xew" source="_BrjpgAc9Eeaw3KvbsM1xew" target="_Br0IMgc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzKGVgc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzKtYAc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzKtYgc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzKtYQc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzKGVwc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzKGVAc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AbstractModel%5Bjcu%5Ename=AbstractModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzKGVQc9Eeaw3KvbsM1xew" points="[0, 0, 1426, -8269]$[-1426, 4911, 0, -3358]$[-1426, 8269, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4_olQc9Eeaw3KvbsM1xew" id="(0.31651956,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4_olgc9Eeaw3KvbsM1xew" id="(0.5002957,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzKtYwc9Eeaw3KvbsM1xew" source="_BrjpgAc9Eeaw3KvbsM1xew" target="_BrYDUAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzKtZgc9Eeaw3KvbsM1xew" type="NameLabel">
+      <children xmi:id="_BzLUcAc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzLUcQc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzKtZwc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzKtZAc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=AbstractModel%5Bjcu%5Ename=AbstractModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Model%5Bjcu%5Ename=Model.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzKtZQc9Eeaw3KvbsM1xew" points="[0, 0, -2240, 12274]$[991, -1587, -1249, 10687]$[2240, -12274, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B46JAQc9Eeaw3KvbsM1xew" id="(0.5998319,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B46JAgc9Eeaw3KvbsM1xew" id="(0.24963333,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzLUcgc9Eeaw3KvbsM1xew" source="_BrjpgAc9Eeaw3KvbsM1xew" target="_BrpJFwc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzL7gAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzL7ggc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzL7hAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzL7gwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzL7gQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzLUcwc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AbstractModel%5Bjcu%5Ename=AbstractModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelListener%5Bjcu%5Ename=ModelListener.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzLUdAc9Eeaw3KvbsM1xew" points="[0, 0, 1, -4911]$[0, 4911, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B48lQAc9Eeaw3KvbsM1xew" id="(0.6332493,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B48lQQc9Eeaw3KvbsM1xew" id="(0.49985668,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzL7hQc9Eeaw3KvbsM1xew" source="_BrkQmAc9Eeaw3KvbsM1xew" target="_Brf_IAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzMikAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzMikgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzMilAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzMikwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzMikQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzL7hgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AccountModel%5Bjcu%5Ename=AccountModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Account%5Bjcu%5Ename=Account.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzL7hwc9Eeaw3KvbsM1xew" points="[1, 0, 2306, -1586]$[-2304, 1586, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B49MUwc9Eeaw3KvbsM1xew" id="(0.40745953,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B49MVAc9Eeaw3KvbsM1xew" id="(0.49986768,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzMilQc9Eeaw3KvbsM1xew" source="_BrkQmAc9Eeaw3KvbsM1xew" target="_Br0IMgc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzNJoAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzNJogc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzNJpAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzNJowc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzNJoQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzMilgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AccountModel%5Bjcu%5Ename=AccountModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzMilwc9Eeaw3KvbsM1xew" points="[1, 0, 1, -12815]$[1, 12815, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5APoAc9Eeaw3KvbsM1xew" id="(0.5434553,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5APoQc9Eeaw3KvbsM1xew" id="(0.08900059,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzNwsAc9Eeaw3KvbsM1xew" source="_BrkQmAc9Eeaw3KvbsM1xew" target="_BrjpgAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzNwswc9Eeaw3KvbsM1xew" type="NameLabel">
+      <children xmi:id="_BzNwtQc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzNwtgc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzNwtAc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzNwsQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=AccountModel%5Bjcu%5Ename=AccountModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AbstractModel%5Bjcu%5Ename=AbstractModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzNwsgc9Eeaw3KvbsM1xew" points="[1, 0, -785, -1586]$[787, 1586, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B46JAwc9Eeaw3KvbsM1xew" id="(0.97061926,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B46JBAc9Eeaw3KvbsM1xew" id="(0.39995795,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzOXwAc9Eeaw3KvbsM1xew" source="_BrkQmAc9Eeaw3KvbsM1xew" target="_BribYAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzOXwwc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzOXxQc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzOXxwc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzOXxgc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzOXxAc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzOXwQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AccountModel%5Bjcu%5Ename=AccountModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AccountController%5Bjcu%5Ename=AccountController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzOXwgc9Eeaw3KvbsM1xew" points="[0, 0, 5543, -1586]$[-5543, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B49MUQc9Eeaw3KvbsM1xew" id="(0.13581985,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B49MUgc9Eeaw3KvbsM1xew" id="(0.7141295,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzO-0Ac9Eeaw3KvbsM1xew" source="_BrkQmAc9Eeaw3KvbsM1xew" target="_BrmFwAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzO-0wc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzO-1Qc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzPl4Qc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzPl4Ac9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzO-1Ac9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzO-0Qc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AccountModel%5Bjcu%5Ename=AccountModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzO-0gc9Eeaw3KvbsM1xew" points="[0, 0, 5771, 1586]$[-5770, -1586, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B48lRgc9Eeaw3KvbsM1xew" id="(0.23891626,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B49MUAc9Eeaw3KvbsM1xew" id="(0.91328806,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzPl4gc9Eeaw3KvbsM1xew" source="_BrkQmAc9Eeaw3KvbsM1xew" target="_BrjpgAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzPl5Qc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzPl5wc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzQM8Qc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzQM8Ac9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzPl5gc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzPl4wc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AccountModel%5Bjcu%5Ename=AccountModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AbstractModel%5Bjcu%5Ename=AbstractModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzPl5Ac9Eeaw3KvbsM1xew" points="[1, 0, 1, -1586]$[1, 1586, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B49zYAc9Eeaw3KvbsM1xew" id="(0.9414145,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B49zYQc9Eeaw3KvbsM1xew" id="(0.1998739,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzQM8gc9Eeaw3KvbsM1xew" type="OwnedElement" source="_BrmFwAc9Eeaw3KvbsM1xew" target="_Brwd1Ac9Eeaw3KvbsM1xew">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzQM8wc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzQM9Ac9Eeaw3KvbsM1xew" points="[0, 0, 3772, 9249]$[-3771, -1587, 1, 7662]$[-3771, -9249, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5EhEwc9Eeaw3KvbsM1xew" id="(0.19321048,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5EhFAc9Eeaw3KvbsM1xew" id="(0.63611794,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzQM9Qc9Eeaw3KvbsM1xew" type="OwnedElement" source="_BrmFwAc9Eeaw3KvbsM1xew" target="_Br1WUAc9Eeaw3KvbsM1xew">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzQM9gc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzQM9wc9Eeaw3KvbsM1xew" points="[0, 0, 1, 9249]$[0, -9249, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5GWQgc9Eeaw3KvbsM1xew" id="(0.62929195,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5GWQwc9Eeaw3KvbsM1xew" id="(0.7253071,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzQ0AAc9Eeaw3KvbsM1xew" type="OwnedElement" source="_Bry6FAc9Eeaw3KvbsM1xew" target="_BrmFwAc9Eeaw3KvbsM1xew">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzQ0AQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzQ0Agc9Eeaw3KvbsM1xew" points="[1, 0, 13046, -21485]$[-4046, 1586, 8999, -19899]$[-10956, 4916, 2089, -16569]$[-19929, 10412, -6884, -11073]$[-19929, 13452, -6884, -8033]$[-19138, 15039, -6093, -6446]$[-17737, 19898, -4692, -1587]$[-13044, 21485, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5FIIgc9Eeaw3KvbsM1xew" id="(0.124672405,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5FIIwc9Eeaw3KvbsM1xew" id="(0.06440349,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzQ0Awc9Eeaw3KvbsM1xew" source="_BrmFwAc9Eeaw3KvbsM1xew" target="_BrqXNgc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzQ0Bgc9Eeaw3KvbsM1xew" type="NameLabel">
+      <children xmi:id="_BzQ0CAc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzRbEAc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzQ0Bwc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzQ0BAc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzQ0BQc9Eeaw3KvbsM1xew" points="[1, 0, -14766, 1586]$[14767, -1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B45h8gc9Eeaw3KvbsM1xew" id="(0.81454897,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B46JAAc9Eeaw3KvbsM1xew" id="(0.12482695,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzRbEQc9Eeaw3KvbsM1xew" source="_BrmFwAc9Eeaw3KvbsM1xew" target="_Br1WUAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzRbFAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzRbFgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzSCIAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzRbFwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzRbFQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzRbEgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Handler%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzRbEwc9Eeaw3KvbsM1xew" points="[0, 0, 1, 9249]$[0, -9249, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5GWQAc9Eeaw3KvbsM1xew" id="(0.4760427,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5GWQQc9Eeaw3KvbsM1xew" id="(0.5312039,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzSCIQc9Eeaw3KvbsM1xew" source="_BrmFwAc9Eeaw3KvbsM1xew" target="_Br0IMgc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzSCJAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzSCJgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzSCKAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzSCJwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzSCJQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzSCIgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzSCIwc9Eeaw3KvbsM1xew" points="[1, 0, -10769, -26861]$[-1392, 15632, -12162, -11229]$[-1392, 21916, -12162, -4945]$[10771, 26861, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5APpAc9Eeaw3KvbsM1xew" id="(0.2498545,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5APpQc9Eeaw3KvbsM1xew" id="(0.044352453,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzSpMAc9Eeaw3KvbsM1xew" source="_BrmFwAc9Eeaw3KvbsM1xew" target="_BribYAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzSpMwc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzSpNQc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzTQQQc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzTQQAc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzSpNAc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzSpMQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AccountController%5Bjcu%5Ename=AccountController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzSpMgc9Eeaw3KvbsM1xew" points="[1, 0, 1, -15632]$[1, 15632, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5APogc9Eeaw3KvbsM1xew" id="(0.499903,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5APowc9Eeaw3KvbsM1xew" id="(0.32655293,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzTQQgc9Eeaw3KvbsM1xew" source="_BrmFwAc9Eeaw3KvbsM1xew" target="_Brf_IAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzTQRQc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzTQRwc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzT3UQc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzT3UAc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzTQRgc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzTQQwc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Account%5Bjcu%5Ename=Account.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzTQRAc9Eeaw3KvbsM1xew" points="[1, 0, -4113, -15632]$[4115, 1586, 1, -14046]$[4115, 15632, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5A2sAc9Eeaw3KvbsM1xew" id="(0.7400582,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5A2sQc9Eeaw3KvbsM1xew" id="(0.18179412,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzT3Ugc9Eeaw3KvbsM1xew" source="_BrmFwAc9Eeaw3KvbsM1xew" target="_BrkQmAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzT3VQc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzT3Vwc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzUeYQc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzUeYAc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzT3Vgc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzT3Uwc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AccountModel%5Bjcu%5Ename=AccountModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzT3VAc9Eeaw3KvbsM1xew" points="[0, 0, -5537, -1586]$[5537, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B47-NAc9Eeaw3KvbsM1xew" id="(0.8267701,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B47-NQc9Eeaw3KvbsM1xew" id="(0.11945813,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzUeYgc9Eeaw3KvbsM1xew" source="_BrmFwAc9Eeaw3KvbsM1xew" target="_Brwd1Ac9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzUeZQc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzUeZwc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzVFcQc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzVFcAc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzUeZgc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzUeYwc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=DismissHandler%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzUeZAc9Eeaw3KvbsM1xew" points="[1, 0, 3310, 9249]$[-3309, -1587, 0, 7662]$[-3309, -9249, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5EhFQc9Eeaw3KvbsM1xew" id="(0.25761396,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5EhFgc9Eeaw3KvbsM1xew" id="(0.83095825,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzVFcgc9Eeaw3KvbsM1xew" type="OwnedElement" source="_BroiAAc9Eeaw3KvbsM1xew" target="_BruBlwc9Eeaw3KvbsM1xew">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzVFcwc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzVFdAc9Eeaw3KvbsM1xew" points="[1, 0, -7849, -2536]$[7851, 2536, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B49zYgc9Eeaw3KvbsM1xew" id="(0.72725284,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B49zYwc9Eeaw3KvbsM1xew" id="(0.33316952,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzVFdQc9Eeaw3KvbsM1xew" type="OwnedElement" source="_Bry6FAc9Eeaw3KvbsM1xew" target="_BroiAAc9Eeaw3KvbsM1xew">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzVFdgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzVFdwc9Eeaw3KvbsM1xew" points="[0, 0, 0, -4916]$[0, 4916, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5FvMAc9Eeaw3KvbsM1xew" id="(0.4998128,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5FvMQc9Eeaw3KvbsM1xew" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzVFeAc9Eeaw3KvbsM1xew" source="_BroiAAc9Eeaw3KvbsM1xew" target="_BrbGoAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzVsgAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzVsggc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzVshAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzVsgwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzVsgQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzVFeQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=BoxHandler%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzVFegc9Eeaw3KvbsM1xew" points="[0, 0, 3202, -2536]$[-3202, 2536, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B49zZAc9Eeaw3KvbsM1xew" id="(0.27252844,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B49zZQc9Eeaw3KvbsM1xew" id="(0.24987715,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzVshQc9Eeaw3KvbsM1xew" source="_BroiAAc9Eeaw3KvbsM1xew" target="_BrkQmAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzWTkAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzWTkgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzWTlAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzWTkwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzWTkQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzVshgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AccountModel%5Bjcu%5Ename=AccountModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzVshwc9Eeaw3KvbsM1xew" points="[1, 0, 2222, -21005]$[208, 2536, 2429, -18469]$[208, 5576, 2429, -15429]$[-2221, 7163, 0, -13842]$[-2221, 21005, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5A2tAc9Eeaw3KvbsM1xew" id="(0.45450568,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5A2tQc9Eeaw3KvbsM1xew" id="(0.49771288,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzWTlQc9Eeaw3KvbsM1xew" source="_BroiAAc9Eeaw3KvbsM1xew" target="_BribYAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzW6oAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzW6ogc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzW6pAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzW6owc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzW6oQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzWTlgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AccountController%5Bjcu%5Ename=AccountController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzWTlwc9Eeaw3KvbsM1xew" points="[1, 0, 8814, -35051]$[-6162, 2536, 2651, -32515]$[-6164, 19418, 2649, -15633]$[-8345, 33464, 468, -1587]$[-8812, 35051, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5BdwQc9Eeaw3KvbsM1xew" id="(0.0907699,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5Bdwgc9Eeaw3KvbsM1xew" id="(0.57108486,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzW6pQc9Eeaw3KvbsM1xew" source="_BroiAAc9Eeaw3KvbsM1xew" target="_BrqXNgc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzXhsAc9Eeaw3KvbsM1xew" type="NameLabel">
+      <children xmi:id="_BzXhsgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzXhswc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzXhsQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzW6pgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzW6pwc9Eeaw3KvbsM1xew" points="[1, 0, -4926, -7163]$[4927, 2536, 0, -4627]$[4927, 7163, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5Bdwwc9Eeaw3KvbsM1xew" id="(0.6362642,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5BdxAc9Eeaw3KvbsM1xew" id="(0.34702355,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzXhtAc9Eeaw3KvbsM1xew" source="_BroiAAc9Eeaw3KvbsM1xew" target="_Br0IMgc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzXhtwc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzYIwQc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzYIwwc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzYIwgc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzYIwAc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzXhtQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzXhtgc9Eeaw3KvbsM1xew" points="[1, 0, 1382, -46280]$[3682, 949, 5063, -45331]$[10922, 2536, 12303, -43744]$[10922, 5576, 12303, -40704]$[9284, 41335, 10665, -4945]$[4011, 44693, 5392, -1587]$[-1381, 46280, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5A2tgc9Eeaw3KvbsM1xew" id="(0.90901136,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5BdwAc9Eeaw3KvbsM1xew" id="(0.8749261,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzYIxAc9Eeaw3KvbsM1xew" source="_BroiAAc9Eeaw3KvbsM1xew" target="_BruBlwc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzYIxwc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzYv0Ac9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzYv0gc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzYv0Qc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzYIyAc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzYIxQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Handler%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzYIxgc9Eeaw3KvbsM1xew" points="[1, 0, -8792, -2536]$[8793, 2536, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4-acgc9Eeaw3KvbsM1xew" id="(0.8180227,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4-acwc9Eeaw3KvbsM1xew" id="(0.6665848,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzYv0wc9Eeaw3KvbsM1xew" source="_BrpJFwc9Eeaw3KvbsM1xew" target="_Br0IMgc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzYv1gc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzZW4Ac9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzZW4gc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzZW4Qc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzYv1wc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzYv1Ac9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=ModelListener%5Bjcu%5Ename=ModelListener.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzYv1Qc9Eeaw3KvbsM1xew" points="[1, 0, 2510, -1586]$[-2509, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B47-MAc9Eeaw3KvbsM1xew" id="(0.49985668,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B47-MQc9Eeaw3KvbsM1xew" id="(0.6253696,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzZW4wc9Eeaw3KvbsM1xew" type="OwnedElement" source="_Bry6FAc9Eeaw3KvbsM1xew" target="_BrqXNgc9Eeaw3KvbsM1xew">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzZW5Ac9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzZW5Qc9Eeaw3KvbsM1xew" points="[0, 0, -7177, -15039]$[7038, 1586, -139, -13453]$[12694, 10412, 5517, -4627]$[12694, 13452, 5517, -1587]$[7178, 15039, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5FIIAc9Eeaw3KvbsM1xew" id="(0.83302134,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5FIIQc9Eeaw3KvbsM1xew" id="(0.9282418,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzZ98Ac9Eeaw3KvbsM1xew" source="_BrqXNgc9Eeaw3KvbsM1xew" target="_BrjpgAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzZ98wc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzZ99Qc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzZ99wc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzZ99gc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzZ99Ac9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzZ98Qc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AbstractModel%5Bjcu%5Ename=AbstractModel.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzZ98gc9Eeaw3KvbsM1xew" points="[1, 0, 3988, -23028]$[1841, 8982, 5828, -14046]$[1841, 21441, 5828, -1587]$[-3986, 23028, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5CE0wc9Eeaw3KvbsM1xew" id="(0.66658974,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5CE1Ac9Eeaw3KvbsM1xew" id="(0.7999159,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzalAAc9Eeaw3KvbsM1xew" source="_BrqXNgc9Eeaw3KvbsM1xew" target="_Brdi4Ac9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzalAwc9Eeaw3KvbsM1xew" type="NameLabel">
+      <children xmi:id="_BzalBQc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzalBgc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzalBAc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzalAQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=View%5Bjcu%5Ename=View.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzalAgc9Eeaw3KvbsM1xew" points="[1, 0, 1962, 1586]$[-1960, -1586, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B45h8Ac9Eeaw3KvbsM1xew" id="(0.26026765,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B45h8Qc9Eeaw3KvbsM1xew" id="(0.6376537,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzalBwc9Eeaw3KvbsM1xew" source="_BrqXNgc9Eeaw3KvbsM1xew" target="_BrpJFwc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzbMEAc9Eeaw3KvbsM1xew" type="NameLabel">
+      <children xmi:id="_BzbMEgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzbMEwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzbMEQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzalCAc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelListener%5Bjcu%5Ename=ModelListener.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzalCQc9Eeaw3KvbsM1xew" points="[0, 0, 4630, -30899]$[2704, 1586, 7334, -29313]$[2704, 7395, 7334, -23504]$[1911, 21441, 6541, -9458]$[-1776, 29312, 2854, -1587]$[-4630, 30899, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5CE1Qc9Eeaw3KvbsM1xew" id="(0.83317953,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5CE1gc9Eeaw3KvbsM1xew" id="(0.74978507,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzbMFAc9Eeaw3KvbsM1xew" source="_BrqXNgc9Eeaw3KvbsM1xew" target="_BrZRdwc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzbzIAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzbzIgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzbzJAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzbzIwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzbzIQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzbMFQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Controller%5Bjcu%5Ename=Controller.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzbMFgc9Eeaw3KvbsM1xew" points="[1, 0, 2490, -1586]$[-2489, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B46JBQc9Eeaw3KvbsM1xew" id="(0.3749423,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B46wEAc9Eeaw3KvbsM1xew" id="(0.88788617,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzbzJQc9Eeaw3KvbsM1xew" source="_BrqXNgc9Eeaw3KvbsM1xew" target="_BrYDUAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzcaMAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzcaMgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzcaNAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzcaMwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzcaMQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzbzJgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Model%5Bjcu%5Ename=Model.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzbzJwc9Eeaw3KvbsM1xew" points="[0, 0, 0, -8982]$[0, 8982, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5CE0Qc9Eeaw3KvbsM1xew" id="(0.5,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5CE0gc9Eeaw3KvbsM1xew" id="(0.8295688,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzcaNQc9Eeaw3KvbsM1xew" type="OwnedElement" source="_BrrlVAc9Eeaw3KvbsM1xew" target="_BrsMZwc9Eeaw3KvbsM1xew">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzcaNgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzcaNwc9Eeaw3KvbsM1xew" points="[0, 0, 6303, -1586]$[-6303, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B47XJQc9Eeaw3KvbsM1xew" id="(0.4998128,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B47XJgc9Eeaw3KvbsM1xew" id="(0.4998713,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzdBQAc9Eeaw3KvbsM1xew" source="_BrrlVAc9Eeaw3KvbsM1xew" target="_Bry6FAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzdBQwc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzdBRQc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzdBRwc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzdBRgc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzdBRAc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzdBQQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzdBQgc9Eeaw3KvbsM1xew" points="[0, 0, -1300, 1586]$[1301, -1586, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B47XIwc9Eeaw3KvbsM1xew" id="(0.83302134,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B47XJAc9Eeaw3KvbsM1xew" id="(0.374766,1.0)"/>
+  </edges>
+  <edges xmi:id="_BzdBSAc9Eeaw3KvbsM1xew" source="_BrsMZwc9Eeaw3KvbsM1xew" target="_BrZRdwc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzdoUAc9Eeaw3KvbsM1xew" type="NameLabel">
+      <children xmi:id="_BzdoUgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzdoUwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzdoUQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzdBSQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=AbstractController%5Bjcu%5Ename=AbstractController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Controller%5Bjcu%5Ename=Controller.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzdBSgc9Eeaw3KvbsM1xew" points="[0, 0, -9125, -12659]$[1730, 1586, -7395, -11073]$[1732, 4626, -7393, -8033]$[6541, 6213, -2584, -6446]$[6820, 11072, -2305, -1587]$[9126, 12659, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5DS9Ac9Eeaw3KvbsM1xew" id="(0.6666667,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5DS9Qc9Eeaw3KvbsM1xew" id="(0.11246095,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzdoVAc9Eeaw3KvbsM1xew" source="_BrsMZwc9Eeaw3KvbsM1xew" target="_Brdi4Ac9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzePYAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzePYgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzePZAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzePYwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzePYQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzdoVQc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AbstractController%5Bjcu%5Ename=AbstractController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=View%5Bjcu%5Ename=View.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzdoVgc9Eeaw3KvbsM1xew" points="[1, 0, -9780, -1586]$[9781, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B46wEQc9Eeaw3KvbsM1xew" id="(0.8332046,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B46wEgc9Eeaw3KvbsM1xew" id="(0.33333334,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzePZQc9Eeaw3KvbsM1xew" source="_BrsMZwc9Eeaw3KvbsM1xew" target="_BrYDUAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_Bze2cAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_Bze2cgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_Bze2dAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_Bze2cwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bze2cQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzePZgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AbstractController%5Bjcu%5Ename=AbstractController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Model%5Bjcu%5Ename=Model.java%5Bjpack%5Ename=model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzePZwc9Eeaw3KvbsM1xew" points="[0, 0, -12919, -20055]$[1, 4626, -12918, -15429]$[2378, 6213, -10541, -13842]$[4812, 11072, -8107, -8983]$[7189, 12659, -5730, -7396]$[7468, 18468, -5451, -1587]$[12919, 20055, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5DS8gc9Eeaw3KvbsM1xew" id="(0.4998713,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5DS8wc9Eeaw3KvbsM1xew" id="(0.2073922,0.0)"/>
+  </edges>
+  <edges xmi:id="_Bze2dQc9Eeaw3KvbsM1xew" source="_BrtahAc9Eeaw3KvbsM1xew" target="_BrrlVAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_Bze2eAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzfdgAc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_Bzfdggc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzfdgQc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bze2eQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Bze2dgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Bze2dwc9Eeaw3KvbsM1xew" points="[0, 0, 0, -4916]$[0, 4916, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5D6Agc9Eeaw3KvbsM1xew" id="(0.4998128,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5D6Awc9Eeaw3KvbsM1xew" id="(0.4998128,0.0)"/>
+  </edges>
+  <edges xmi:id="_Bzfdgwc9Eeaw3KvbsM1xew" source="_BrtahAc9Eeaw3KvbsM1xew" target="_Bry6FAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_Bzfdhgc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzgEkAc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzgEkgc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzgEkQc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bzfdhwc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzfdhAc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzfdhQc9Eeaw3KvbsM1xew" points="[0, 0, -1857, -1586]$[1857, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B47XIQc9Eeaw3KvbsM1xew" id="(0.7499064,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B47XIgc9Eeaw3KvbsM1xew" id="(0.4998128,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzgEkwc9Eeaw3KvbsM1xew" source="_BruBlwc9Eeaw3KvbsM1xew" target="_BrqXNgc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzgElgc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzgroAc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_Bzgrogc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzgroQc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzgElwc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzgElAc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Handler%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzgElQc9Eeaw3KvbsM1xew" points="[0, 0, 0, -2803]$[0, 2803, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B48lRAc9Eeaw3KvbsM1xew" id="(0.055282556,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B48lRQc9Eeaw3KvbsM1xew" id="(0.85671437,0.0)"/>
+  </edges>
+  <edges xmi:id="_Bzgrowc9Eeaw3KvbsM1xew" source="_BruBlwc9Eeaw3KvbsM1xew" target="_BribYAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_Bzgrpgc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzhSsAc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzhSsgc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzhSsQc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bzgrpwc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzgrpAc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Handler%5Bjsrctype%5Ename=AccountView%5Bjcu%5Ename=AccountView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AccountController%5Bjcu%5Ename=AccountController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzgrpQc9Eeaw3KvbsM1xew" points="[1, 0, 17034, -30691]$[1584, 2803, 18617, -27888]$[1584, 15058, 18617, -15633]$[0, 16645, 17033, -14046]$[-2, 29104, 17031, -1587]$[-17033, 30691, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5D6BAc9Eeaw3KvbsM1xew" id="(0.11081081,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5D6BQc9Eeaw3KvbsM1xew" id="(0.9284777,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzhSswc9Eeaw3KvbsM1xew" source="_Brwd1Ac9Eeaw3KvbsM1xew" target="_BrqXNgc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzhStgc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzhSuAc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_Bzh5wQc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_Bzh5wAc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzhStwc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzhStAc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=DismissHandler%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzhStQc9Eeaw3KvbsM1xew" points="[0, 0, -20438, -2803]$[741, 1216, -19697, -1587]$[20438, 2803, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B46wFQc9Eeaw3KvbsM1xew" id="(0.9154791,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B47XIAc9Eeaw3KvbsM1xew" id="(0.08675589,0.0)"/>
+  </edges>
+  <edges xmi:id="_Bzh5wgc9Eeaw3KvbsM1xew" source="_Brwd1Ac9Eeaw3KvbsM1xew" target="_BribYAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_Bzh5xQc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_Bzh5xwc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_Bzig0Qc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_Bzig0Ac9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bzh5xgc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Bzh5wwc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=DismissHandler%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AccountController%5Bjcu%5Ename=AccountController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Bzh5xAc9Eeaw3KvbsM1xew" points="[0, 0, -6544, -30691]$[-2087, 2803, -8631, -27888]$[-2087, 7662, -8631, -23029]$[2484, 29104, -4060, -1587]$[6545, 30691, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5EhEQc9Eeaw3KvbsM1xew" id="(0.22063883,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5EhEgc9Eeaw3KvbsM1xew" id="(0.21762905,0.0)"/>
+  </edges>
+  <edges xmi:id="_Bzig0gc9Eeaw3KvbsM1xew" source="_Brwd1Ac9Eeaw3KvbsM1xew" target="_BrmFwAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_Bzig1Qc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_Bzig1wc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzjH4Ac9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_Bzig2Ac9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bzig1gc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Bzig0wc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=DismissHandler%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Bzig1Ac9Eeaw3KvbsM1xew" points="[0, 0, -4230, -9249]$[0, 7662, -4230, -1587]$[4231, 9249, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5D6Bgc9Eeaw3KvbsM1xew" id="(0.44152334,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5EhEAc9Eeaw3KvbsM1xew" id="(0.12880698,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzjH4Qc9Eeaw3KvbsM1xew" source="_Bry6FAc9Eeaw3KvbsM1xew" target="_BrrlVAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzjH5Ac9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzjH5gc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_Bzju8Ac9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzjH5wc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzjH5Qc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzjH4gc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzjH4wc9Eeaw3KvbsM1xew" points="[1, 0, 1413, -1586]$[-1411, 1586, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B46wEwc9Eeaw3KvbsM1xew" id="(0.2497192,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B46wFAc9Eeaw3KvbsM1xew" id="(0.66641706,0.0)"/>
+  </edges>
+  <edges xmi:id="_Bzju8Qc9Eeaw3KvbsM1xew" source="_Br1WUAc9Eeaw3KvbsM1xew" target="_BrqXNgc9Eeaw3KvbsM1xew">
+    <children xmi:id="_Bzju9Ac9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_Bzju9gc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzkWAAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_Bzju9wc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bzju9Qc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Bzju8gc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Handler%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Bzju8wc9Eeaw3KvbsM1xew" points="[1, 0, -15373, -2803]$[957, 1216, -14417, -1587]$[15374, 2803, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4-adAc9Eeaw3KvbsM1xew" id="(0.86265355,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B4-adQc9Eeaw3KvbsM1xew" id="(0.17351177,0.0)"/>
+  </edges>
+  <edges xmi:id="_BzkWAQc9Eeaw3KvbsM1xew" source="_Br1WUAc9Eeaw3KvbsM1xew" target="_BrmFwAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzkWBAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_Bzk9EAc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_Bzk9Egc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_Bzk9EQc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzkWBQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_BzkWAgc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Handler%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BzkWAwc9Eeaw3KvbsM1xew" points="[0, 0, 1, -9249]$[0, 9249, 1, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5FvNAc9Eeaw3KvbsM1xew" id="(0.33636364,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5FvNQc9Eeaw3KvbsM1xew" id="(0.32221144,0.0)"/>
+  </edges>
+  <edges xmi:id="_Bzk9Ewc9Eeaw3KvbsM1xew" source="_Br1WUAc9Eeaw3KvbsM1xew" target="_BribYAc9Eeaw3KvbsM1xew">
+    <children xmi:id="_BzlkIAc9Eeaw3KvbsM1xew" type="KindLabel">
+      <children xmi:id="_BzlkIgc9Eeaw3KvbsM1xew" type="Stereotype"/>
+      <children xmi:id="_BzlkJAc9Eeaw3KvbsM1xew" type="Kind"/>
+      <children xmi:id="_BzlkIwc9Eeaw3KvbsM1xew" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BzlkIQc9Eeaw3KvbsM1xew" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Bzk9FAc9Eeaw3KvbsM1xew" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Handler%5Bjsrctype%5Ename=EditInView%5Bjcu%5Ename=EditInView.java%5Bjpack%5Ename=view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AccountController%5Bjcu%5Ename=AccountController.java%5Bjpack%5Ename=controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simpleAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Bzk9FQc9Eeaw3KvbsM1xew" points="[1, 0, -1352, -30691]$[-2164, 9249, -3517, -21442]$[-2164, 15058, -3517, -15633]$[-1873, 29104, -3226, -1587]$[1353, 30691, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5FvMgc9Eeaw3KvbsM1xew" id="(0.16805896,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B5FvMwc9Eeaw3KvbsM1xew" id="(0.272091,0.0)"/>
+  </edges>
+</notation:Diagram>
